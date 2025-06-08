@@ -6,7 +6,7 @@ This repository is meant to be a sample repository for users to learn how to col
 After forking this Repository, update this README by adding your name to the list below.
 
 ## Names of contributors
-- Obed Ehonea
+- Obed Ehoneah
 - James Nzioka
 - Biniyam Ambachew
 - ["[Names of contributors]"]
